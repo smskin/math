@@ -2,7 +2,7 @@
     "name": "smskin/math",
     "description": "Math operations",
     "type": "library",
-    "license": "LGPL License 2.1",
+    "license": "LGPL-2.1-or-later",
     "authors": [
         {
             "name": "smskin",
