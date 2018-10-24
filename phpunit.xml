@@ -1,0 +1,8 @@
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="MathCombinatorics">
+            <directory>tests/Combinatorics/CombinationsTest.php</directory>
+            <directory>tests/Combinatorics/PermutationsTest.php</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

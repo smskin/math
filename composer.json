@@ -1,0 +1,23 @@
+{
+    "name": "smskin/math",
+    "description": "Math operations",
+    "type": "library",
+    "license": "LGPL License 2.1",
+    "authors": [
+        {
+            "name": "smskin",
+            "email": "serg@msoinvest.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SMSkin\\Math\\": "src",
+            "SMSkin\\Math\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
