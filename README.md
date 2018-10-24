@@ -1,5 +1,7 @@
 # Math library
+For install by composer run: 
 
+    composer require smskin/math
 
 ## Combinatorics
 A package that returns all the combinations and permutations, without repitition, of a given set and subset size. Associative arrays are preserved.
